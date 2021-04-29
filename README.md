@@ -12,7 +12,7 @@ Programming Languages used:
 2) HTML
 
 Code of conduct
-For learning purposes only...We are here to learn from each other...(Welcoming all coders, as well as Highly Experienced Coders) Your knowledge is key!
+For learning purposes only...We are here to learn from each other...(Welcoming all coders, as well as Highly Experienced Coders) Your knowledge is key...Please share it!
 
 Contributing
 All suggestions are respectfully welcome!
