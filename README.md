@@ -8,7 +8,7 @@
 
 Learn how to move the ball horizontally, vertically, and diagonally.  As well as change colors and speed.
 
-# Programming Languages used:
+# Programming Languages used
 1) Javascript
 2) HTML
 
