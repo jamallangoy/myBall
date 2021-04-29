@@ -1,6 +1,6 @@
 # myBall
 
-# Version 1 – Week 2 Javascript Basics MIT XPro
+# Version 1 – Week 2 Javascript Basics (MIT XPro) April 29th,2021
 
 * This is my initial submit of my Week 2 "Move Ball" assignment.  It has a very basic approach to making the balls move back and forth.  My intent is to refactor the code based on the skills that I acquire from my Full-Stack Development course at MIT XPro.  If you have any suggestions and are willing to display your abilities, please do.  I am willing to learn from how other coders think. 
 
